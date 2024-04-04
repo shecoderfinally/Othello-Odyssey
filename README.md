@@ -42,7 +42,7 @@ python othello_odyssey.py
 
 ## Game Rules
 
-Othello is played on an 8x8 grid. The game pieces, called "disks," are black on one side and white on the other. The game begins with four disks placed in a square in the center of the grid, with two black disks diagonally opposite each other and two white disks diagonally opposite each other.
+Othello is played on an 12x12 grid. The game pieces, called "disks," are black(x) on one side and white(o) on the other. The game begins with eight disks placed in across two squares in the centers of the grid, with two black disks diagonally opposite each other and two white disks diagonally opposite each other.
 
 Players take turns placing disks on the board. To place a disk, a player must position it so that it surrounds at least one of the opponent's disks in a straight line. This means that the player's disk must be placed in such a way that there is a straight line (vertical, horizontal, or diagonal) of the opponent's disks between the newly placed disk and another one of the player's disks. When a player surrounds the opponent's disks in this manner, all of the surrounded disks are flipped to the player's color.
 

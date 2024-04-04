@@ -1,4 +1,4 @@
-# Othello Odyssey
+# Othello Odyssey 🎮
 
 Welcome to Othello Odyssey, a classic game of strategy and skill brought to you in a digital form. This project aims to allowing players to enjoy the game from the comfort of their devices, with concise details of hwo to go about it.
 
